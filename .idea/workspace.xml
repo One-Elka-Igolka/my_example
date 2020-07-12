@@ -10,10 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c41c2ebf-7928-4db1-b6a2-af5d71c14e28" name="Default Changelist" comment="Add new commit_20">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c41c2ebf-7928-4db1-b6a2-af5d71c14e28" name="Default Changelist" comment="new text">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1eaFlXKuaWhyUZaePgXnF4KsVD7" />
   <component name="ProjectViewState">
@@ -55,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594551947892</updated>
-      <workItem from="1594551949745" duration="2924000" />
+      <workItem from="1594551949745" duration="3040000" />
     </task>
     <task id="LOCAL-00001" summary="Add new commit">
       <created>1594552447608</created>
@@ -85,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594553863670</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new text">
+      <created>1594554905953</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594554905953</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,17 +110,18 @@
     <MESSAGE value="Add new commit" />
     <MESSAGE value="Add new commit_00" />
     <MESSAGE value="Add new commit_20" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new commit_20" />
+    <MESSAGE value="new text" />
+    <option name="LAST_COMMIT_MESSAGE" value="new text" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594553359385">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594553359385" />
-    <state x="2104" y="85" key="DiffContextDialog" timestamp="1594554361158">
+    <state x="2104" y="85" width="1536" height="861" key="DiffContextDialog" timestamp="1594554994834">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2104" y="85" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594554361158" />
+    <state x="2104" y="85" width="1536" height="861" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594554994834" />
     <state x="460" y="164" key="SettingsEditor" timestamp="1594553812331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -125,11 +130,11 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2472" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594554362662" />
-    <state x="2688" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594554853111">
+    <state x="2688" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594554935872">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="768" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594553881251" />
-    <state x="2688" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594554853111" />
+    <state x="2688" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594554935872" />
     <state x="341" y="139" key="new project wizard" timestamp="1594553225901">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
